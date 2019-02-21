@@ -1,7 +1,7 @@
 # Programacion_orientada_a_objetos
 #Tarea 1
 ## Programa que realiza operaciones básicas con fracciones
-###Introducción
+***Introducción***
 Este programa tiene la función de resolver funciones básicas utilizando fracciones, dentro de estas operaciones se encuentra la suma, resta, multiplicación y división.
 
  Este trabajo es una tarea realizada para la clase de programación orientada a objetos con la finalidad de aprender a utilizar            adecuadamente cada uno de los procedimientos llevados a cabo en este programa. 
