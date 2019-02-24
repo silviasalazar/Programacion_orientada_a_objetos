@@ -35,15 +35,14 @@ A continuación se mostrará el método utilizado para el código de cada una de
         {
             Frac result = new Frac(x.num * y.den , x.den * y.num);
             return result;
-        }```
+        }
+```
         
-
-        **Objetivo**
+ **Objetivo**
         
-        Su objetivo es poder realizar las operaciones básicas fraccionarias de una manera mas rápida, eficiente y que sea correcta.
+ Su objetivo es poder realizar las operaciones básicas fraccionarias de una manera mas rápida, eficiente y que sea correcta.
         
-        A continuación podrás observar el código completo:
-        
+ A continuación podrás observar el código completo:
         
 ```
 {
@@ -120,8 +119,9 @@ A continuación se mostrará el método utilizado para el código de cada una de
         }
 
     }
-}
-    ```
+  }
+ ```
+   
 
 
         
