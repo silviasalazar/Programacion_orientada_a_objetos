@@ -34,16 +34,9 @@ A continuación se mostrará el método utilizado para el código de cada una de
             Frac result = new Frac(x.num * y.den , x.den * y.num);
             return result;
         }
-<<<<<<< HEAD
-         ```
 
-         ###Conclusión
-         Este trabajo es una tarea realizada para la clase de programación orientada a objetos con la finalidad de aprender a utilizar adecuadamente cada uno de los procedimientos llevados a cabo en este programa. 
-         
-
-
-=======
 ```
+
         
  **Objetivo**
         
@@ -127,10 +120,7 @@ A continuación se mostrará el método utilizado para el código de cada una de
 
     }
   }
- ```
-   
-
-
+ ``` 
         
-        
->>>>>>> 6a717b44c23702ad5c49d6bf97234c1cb1f5d955
+### Conclusión
+Este trabajo es una tarea realizada para la clase de programación orientada a objetos con la finalidad de aprender a utilizar adecuadamente cada uno de los procedimientos llevados a cabo en este programa. 
