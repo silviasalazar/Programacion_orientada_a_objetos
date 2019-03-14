@@ -42,7 +42,7 @@ class Vector2D
         {
             position= pos;
             fill="White" ;
-            border= "black";
+            border= "Black";
         }
 
         public abstract void Dibuja();
