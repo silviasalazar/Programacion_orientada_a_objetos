@@ -15,6 +15,21 @@ class Vector2D
             return String.Format("{0},{1}", x, y);
         }
     }
+    class Color
+    
+    {
+        public int r,g,b;
+        public Color(int r,int g, int b)
+        {
+            this.r=r;
+            this.g=g;
+            this.b=b;
+        }
+        public override string ToString()
+        {
+            return String.Format("{2}",r,g,b);
+        }
+    }
     abstract class Figura
     {
         public Vector2D position;
@@ -26,7 +41,7 @@ class Vector2D
         public Figura(Vector2D pos)
         {
             position= pos;
-            fill= "white";
+            fill="White" ;
             border= "black";
         }
 
@@ -193,6 +208,37 @@ class Vector2D
             Console.WriteLine("Se dibuja un heptágono en {0} de color {1}", position,fill);
         }
     }
+    class Trapecio:Figura
+    {
+        public Trapecio(Vector2D pos):base(pos)
+        {
+
+        }
+        public Trapecio():base()
+        {
+
+        }
+        public override void Dibuja()
+        {
+            Console.WriteLine("Se dibuja un trapecio en {0} de color {1}",position,fill);
+        }
+    }
+    class Romboide:Figura
+    {
+        public Romboide(Vector2D pos):base(pos)
+        {
+
+        }
+        public Romboide():base()
+        {
+
+        }
+        public override void Dibuja()
+        {
+            Console.WriteLine("Se dibuja un romboide en {0} de color {1}", position, fill);
+        }
+
+    }
     class Program
     {
         static void Main(string[] args)
@@ -207,6 +253,8 @@ class Vector2D
             figuras.Add(new Pentagono(new Vector2D(700,700)));
             figuras.Add(new Hexagono(new Vector2D(800,800)));
             figuras.Add(new Heptagono(new Vector2D(900,900)));
+            figuras.Add(new Trapecio(new Vector2D(1000,1000)));
+            figuras.Add(new Romboide(new Vector2D(1100,1100)));
 
             foreach(Figura f in figuras)
              f.Dibuja();        
