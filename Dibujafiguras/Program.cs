@@ -177,9 +177,20 @@ class Vector2D
         {
          Console.WriteLine("Se dibuja un hexágono en {0} de color {1}", position, fill);
         }
-        class Heptagono:Figura
+    }
+    class Heptagono:Figura
+    {
+        public Heptagono(Vector2D pos):base(pos)
         {
-            
+
+        }
+        public Heptagono():base()
+        {
+
+        }
+        public override void Dibuja()
+        {
+            Console.WriteLine("Se dibuja un heptágono en {0} de color {1}", position,fill);
         }
     }
     class Program
@@ -195,6 +206,7 @@ class Vector2D
             figuras.Add(new Elipse(new Vector2D(600,600)));
             figuras.Add(new Pentagono(new Vector2D(700,700)));
             figuras.Add(new Hexagono(new Vector2D(800,800)));
+            figuras.Add(new Heptagono(new Vector2D(900,900)));
 
             foreach(Figura f in figuras)
              f.Dibuja();        
