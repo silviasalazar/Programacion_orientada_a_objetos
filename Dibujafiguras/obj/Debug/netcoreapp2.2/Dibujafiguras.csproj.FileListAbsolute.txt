@@ -1,0 +1,11 @@
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\bin\Debug\netcoreapp2.2\Dibujafiguras.deps.json
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\bin\Debug\netcoreapp2.2\Dibujafiguras.runtimeconfig.json
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\bin\Debug\netcoreapp2.2\Dibujafiguras.runtimeconfig.dev.json
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\bin\Debug\netcoreapp2.2\Dibujafiguras.dll
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\bin\Debug\netcoreapp2.2\Dibujafiguras.pdb
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\obj\Debug\netcoreapp2.2\Dibujafiguras.csprojAssemblyReference.cache
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\obj\Debug\netcoreapp2.2\Dibujafiguras.csproj.CoreCompileInputs.cache
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\obj\Debug\netcoreapp2.2\Dibujafiguras.AssemblyInfoInputs.cache
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\obj\Debug\netcoreapp2.2\Dibujafiguras.AssemblyInfo.cs
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\obj\Debug\netcoreapp2.2\Dibujafiguras.dll
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\Dibujafiguras\obj\Debug\netcoreapp2.2\Dibujafiguras.pdb

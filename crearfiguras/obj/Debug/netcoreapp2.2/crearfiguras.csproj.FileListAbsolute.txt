@@ -1,0 +1,11 @@
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\bin\Debug\netcoreapp2.2\crearfiguras.deps.json
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\bin\Debug\netcoreapp2.2\crearfiguras.runtimeconfig.json
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\bin\Debug\netcoreapp2.2\crearfiguras.runtimeconfig.dev.json
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\bin\Debug\netcoreapp2.2\crearfiguras.dll
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\bin\Debug\netcoreapp2.2\crearfiguras.pdb
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\obj\Debug\netcoreapp2.2\crearfiguras.csprojAssemblyReference.cache
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\obj\Debug\netcoreapp2.2\crearfiguras.csproj.CoreCompileInputs.cache
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\obj\Debug\netcoreapp2.2\crearfiguras.AssemblyInfoInputs.cache
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\obj\Debug\netcoreapp2.2\crearfiguras.AssemblyInfo.cs
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\obj\Debug\netcoreapp2.2\crearfiguras.dll
+C:\Users\salaz\Documents\Programacion_orientada_a_objetos\crearfiguras\obj\Debug\netcoreapp2.2\crearfiguras.pdb
